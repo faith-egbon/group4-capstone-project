@@ -1,0 +1,61 @@
+body{
+    position: relative;
+    overflow-x: hidden;
+}
+.section1{
+    padding-top: 6rem;
+}
+/* .row{
+    padding-left: 7rem;
+} */
+.section1 h1{
+    font-weight: 700;
+}
+.section1 p{
+    margin-top: 30px;
+}
+.section2{
+    padding-top: 6rem;
+}
+.section3{
+    padding-top: 6rem;
+}
+.section4{
+    padding-top: 6rem;
+}
+.section5{
+    padding-top: 6rem;
+}
+.section6{
+    padding-top: 6rem;
+}
+.section7{
+    padding-top: 6rem;
+}
+.man{
+    margin-left: 3rem;
+}
+.card-body p a{
+    font-weight: 700;
+    text-decoration: none;
+}
+.footer{
+    padding-top: 3rem;
+}
+.button{
+    background-color: white;
+    color: #4E40A6  ;
+}
+.button1{
+    background-color: #4E40A6;
+    color: white;
+}
+
+@media(max-width:766px){
+    .row{
+        padding-left: 2rem;
+    }
+    .man{
+        margin-left: 0;
+    }
+}
